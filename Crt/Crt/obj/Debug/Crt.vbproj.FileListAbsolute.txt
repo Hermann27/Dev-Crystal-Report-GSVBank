@@ -1,0 +1,24 @@
+E:\Users\couakam\Documents\Visual Studio 11\Projects\Crt\Crt\bin\Debug\Crt.exe
+E:\Users\couakam\Documents\Visual Studio 11\Projects\Crt\Crt\bin\Debug\Crt.pdb
+E:\Users\couakam\Documents\Visual Studio 11\Projects\Crt\Crt\bin\Debug\Crt.xml
+E:\Users\couakam\Documents\Visual Studio 11\Projects\Crt\Crt\obj\Debug\Crt.vbprojResolveAssemblyReference.cache
+E:\Users\couakam\Documents\Visual Studio 11\Projects\Crt\Crt\obj\Debug\Crt.Form1.resources
+E:\Users\couakam\Documents\Visual Studio 11\Projects\Crt\Crt\obj\Debug\Crt.Resources.resources
+E:\Users\couakam\Documents\Visual Studio 11\Projects\Crt\Crt\obj\Debug\Crt.vbproj.GenerateResource.Cache
+E:\Users\couakam\Documents\Visual Studio 11\Projects\Crt\Crt\obj\Debug\Crt.exe
+E:\Users\couakam\Documents\Visual Studio 11\Projects\Crt\Crt\obj\Debug\Crt.xml
+E:\Users\couakam\Documents\Visual Studio 11\Projects\Crt\Crt\obj\Debug\Crt.pdb
+E:\Users\couakam\Documents\Visual Studio 11\Projects\Crt\Crt\bin\Debug\Crt.exe.config
+E:\Users\couakam\Documents\Visual Studio 11\Projects\Crt\Crt\obj\Debug\Crt.Form2.resources
+C:\Users\NGADJUI\Desktop\GSVBancaire\Crt\Crt\bin\Debug\Crt.exe.config
+C:\Users\NGADJUI\Desktop\GSVBancaire\Crt\Crt\bin\Debug\Crt.exe
+C:\Users\NGADJUI\Desktop\GSVBancaire\Crt\Crt\bin\Debug\Crt.pdb
+C:\Users\NGADJUI\Desktop\GSVBancaire\Crt\Crt\bin\Debug\Crt.xml
+C:\Users\NGADJUI\Desktop\GSVBancaire\Crt\Crt\obj\Debug\Crt.vbprojResolveAssemblyReference.cache
+C:\Users\NGADJUI\Desktop\GSVBancaire\Crt\Crt\obj\Debug\Crt.Form1.resources
+C:\Users\NGADJUI\Desktop\GSVBancaire\Crt\Crt\obj\Debug\Crt.Form2.resources
+C:\Users\NGADJUI\Desktop\GSVBancaire\Crt\Crt\obj\Debug\Crt.Resources.resources
+C:\Users\NGADJUI\Desktop\GSVBancaire\Crt\Crt\obj\Debug\Crt.vbproj.GenerateResource.Cache
+C:\Users\NGADJUI\Desktop\GSVBancaire\Crt\Crt\obj\Debug\Crt.exe
+C:\Users\NGADJUI\Desktop\GSVBancaire\Crt\Crt\obj\Debug\Crt.xml
+C:\Users\NGADJUI\Desktop\GSVBancaire\Crt\Crt\obj\Debug\Crt.pdb

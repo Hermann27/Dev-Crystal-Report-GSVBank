@@ -1,0 +1,10 @@
+E:\Users\couakam\Documents\Visual Studio 11\Projects\Crt\Crt\bin\Release\Crt.exe.config
+E:\Users\couakam\Documents\Visual Studio 11\Projects\Crt\Crt\bin\Release\Crt.exe
+E:\Users\couakam\Documents\Visual Studio 11\Projects\Crt\Crt\bin\Release\Crt.pdb
+E:\Users\couakam\Documents\Visual Studio 11\Projects\Crt\Crt\bin\Release\Crt.xml
+E:\Users\couakam\Documents\Visual Studio 11\Projects\Crt\Crt\obj\Release\Crt.Form1.resources
+E:\Users\couakam\Documents\Visual Studio 11\Projects\Crt\Crt\obj\Release\Crt.Resources.resources
+E:\Users\couakam\Documents\Visual Studio 11\Projects\Crt\Crt\obj\Release\Crt.vbproj.GenerateResource.Cache
+E:\Users\couakam\Documents\Visual Studio 11\Projects\Crt\Crt\obj\Release\Crt.exe
+E:\Users\couakam\Documents\Visual Studio 11\Projects\Crt\Crt\obj\Release\Crt.xml
+E:\Users\couakam\Documents\Visual Studio 11\Projects\Crt\Crt\obj\Release\Crt.pdb

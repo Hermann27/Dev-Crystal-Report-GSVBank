@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GSVBancaire", "GSVBancaire\GSVBancaire.vbproj", "{6AB2C666-7313-45CC-BFC2-E6551E0CF559}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DAL", "..\GTE\DAL\DAL.vbproj", "{F85A6FFD-F38D-499E-928C-5F9C922B0B9C}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Crt", "Crt\Crt\Crt.vbproj", "{1163AF3B-B976-425B-B112-63519BB44D2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AB2C666-7313-45CC-BFC2-E6551E0CF559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AB2C666-7313-45CC-BFC2-E6551E0CF559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AB2C666-7313-45CC-BFC2-E6551E0CF559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB2C666-7313-45CC-BFC2-E6551E0CF559}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F85A6FFD-F38D-499E-928C-5F9C922B0B9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F85A6FFD-F38D-499E-928C-5F9C922B0B9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F85A6FFD-F38D-499E-928C-5F9C922B0B9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F85A6FFD-F38D-499E-928C-5F9C922B0B9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1163AF3B-B976-425B-B112-63519BB44D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1163AF3B-B976-425B-B112-63519BB44D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1163AF3B-B976-425B-B112-63519BB44D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1163AF3B-B976-425B-B112-63519BB44D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+C:\Users\NGADJUI\Desktop\GSVBancaire\GSVBancaire\bin\Debug\GSVBancaire.exe.config
+C:\Users\NGADJUI\Desktop\GSVBancaire\GSVBancaire\bin\Debug\GSVBancaire.exe
+C:\Users\NGADJUI\Desktop\GSVBancaire\GSVBancaire\bin\Debug\GSVBancaire.pdb
+C:\Users\NGADJUI\Desktop\GSVBancaire\GSVBancaire\bin\Debug\GSVBancaire.xml
+C:\Users\NGADJUI\Desktop\GSVBancaire\GSVBancaire\obj\Debug\GSVBancaire.ListeCitiBank.resources
+C:\Users\NGADJUI\Desktop\GSVBancaire\GSVBancaire\obj\Debug\GSVBancaire.FormBicec.resources
+C:\Users\NGADJUI\Desktop\GSVBancaire\GSVBancaire\obj\Debug\GSVBancaire.FormCitiBank.resources
+C:\Users\NGADJUI\Desktop\GSVBancaire\GSVBancaire\obj\Debug\GSVBancaire.Resources.resources
+C:\Users\NGADJUI\Desktop\GSVBancaire\GSVBancaire\obj\Debug\GSVBancaire.vbproj.GenerateResource.Cache
+C:\Users\NGADJUI\Desktop\GSVBancaire\GSVBancaire\obj\Debug\GSVBancaire.exe
+C:\Users\NGADJUI\Desktop\GSVBancaire\GSVBancaire\obj\Debug\GSVBancaire.xml
+C:\Users\NGADJUI\Desktop\GSVBancaire\GSVBancaire\obj\Debug\GSVBancaire.pdb
+C:\Users\NGADJUI\Desktop\GSVBancaire\GSVBancaire\obj\Debug\GSVBancaire.ListeBICECS.resources
+C:\Users\NGADJUI\Desktop\GSVBancaire\GSVBancaire\bin\Debug\DAL.dll
+C:\Users\NGADJUI\Desktop\GSVBancaire\GSVBancaire\bin\Debug\DAL.pdb
+C:\Users\NGADJUI\Desktop\GSVBancaire\GSVBancaire\bin\Debug\DAL.xml
+C:\Users\NGADJUI\Desktop\GSVBancaire\GSVBancaire\obj\Debug\GSVBancaire.vbprojResolveAssemblyReference.cache
+C:\Users\NGADJUI\Desktop\GSVBancaire\GSVBancaire\obj\Debug\GSVBancaire.FormImpression.resources
+C:\Users\NGADJUI\Desktop\GSVBancaire\GSVBancaire\bin\Debug\Crt.exe
+C:\Users\NGADJUI\Desktop\GSVBancaire\GSVBancaire\bin\Debug\Crt.pdb
+C:\Users\NGADJUI\Desktop\GSVBancaire\GSVBancaire\bin\Debug\Crt.xml
+C:\Users\NGADJUI\Desktop\GSVBancaire\GSVBancaire\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Mes Projets\GSVBancaire\GSVBancaire\bin\Debug\GSVBancaire.exe.config
+D:\Mes Projets\GSVBancaire\GSVBancaire\obj\Debug\GSVBancaire.exe
+D:\Mes Projets\GSVBancaire\GSVBancaire\obj\Debug\GSVBancaire.xml
+D:\Mes Projets\GSVBancaire\GSVBancaire\obj\Debug\GSVBancaire.pdb
